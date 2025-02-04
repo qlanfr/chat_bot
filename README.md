@@ -79,3 +79,12 @@ Gemma2:2B (주식 관련 질문 분석 및 답변 생성)
 📜 라이선스
 
 이 프로젝트는 MIT 라이선스를 따릅니다.
+
+
+----------
+
+# 이미지
+
+![사용](https://github.com/qlanfr/chat_bot/blob/master/chat_bot.png)
+
+
