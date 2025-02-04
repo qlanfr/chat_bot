@@ -1,0 +1,9 @@
+ollama
+yfinance
+requests
+psycopg2-binary
+numpy
+scipy
+python-dotenv
+python-telegram-bot
+
