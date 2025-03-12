@@ -28,12 +28,19 @@ pip install -r requirements.txt
 .env 파일을 생성하여 아래 내용을 추가하세요.
 
 TELEGRAM_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
+
 GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
+
 GOOGLE_CSE_ID=YOUR_GOOGLE_CSE_ID
+
 DB_NAME=your_database
+
 DB_USER=your_db_user
+
 DB_PASSWORD=your_db_password
+
 DB_HOST=localhost
+
 DB_PORT=5432
 
 ▶ 실행 방법
