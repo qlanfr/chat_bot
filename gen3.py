@@ -159,6 +159,10 @@ class StockBot:
     def find_tk(self, company_name):
 
         lower_name = company_name.lower()
+        if "구글" in lower_name or "google" in lower_name:
+            return "GOOGL"
+        if "애플" in lower_name or "apple" in lower_name:
+            return "AAPL"
         prompt = (
             f"다음 회사의 주식 티커 심볼을 알려주세요. 가능한 경우 표준 티커 심볼만 대문자 한 단어로 출력해 주세요:\n"
             f"회사명: {company_name}"
